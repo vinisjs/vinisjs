@@ -1,32 +1,27 @@
-## Welcome 
+# Olá, mundo! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinszofc&show_icons=true&theme=github_dark)
+## Eu sou Osíris Vinícius, o Dev das Linhas de Código! 👋
 
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="htts://www.twitter.com/viniszofc" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/>
-  </a>
-  <a href="htts://www.linkedin.com/vinszofc" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/>
-  </a>
-  <a href="htts://www.instagram.com/vinszofc" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40"/>
-  </a>
-</p>
+## Quem é esse cara?
 
-![](https://komarev.com/ghpvc/?username=vinszofc)
-<!--
-**vinszofc/vinszofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Imagine um misto de Analista de Sistemas e Desenvolvedor com uma paixão ardente por desafios de código. Embarquei em diversas jornadas tecnológicas, especialmente nos reinos encantados de Desenvolvimento Full Stack e Frontend.
 
-Here are some ideas to get you started:
+## Arsenal de Feitiços Tecnológicos 🧙‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linguagens: Typescript, JavaScript, Java, C, PHP
+- Arte da Teia Digital: HTML, CSS, React, Vue
+- Poções de Dados: SQL, MongoDB
+- Mantras Ágeis: Scrum, Kanban
+
+## Fale Comigo
+
+- 📧 **Coruja Mensageira:** [contato@viniccius.com.br](mailto:contato@viniccius.com.br)
+- 📱 **Chamado Urgente:** +55 67 9 9944 - 1458
+- [Astral LinkedIn](https://www.linkedin.com/in/viniszofc/)
+- [Feitiço do Twitter](https://twitter.com/viniszofce/)
+
+## A Magia dos Números 🌟
+
+![Osíris Vinícius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinszofc&show_icons=true&theme=github_dark)
+
+Junte-se a mim nesta aventura mágica de código! ✨🚀
