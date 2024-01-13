@@ -1,6 +1,6 @@
 # Olá, mundo! 
 
-## Eu sou Osíris Vinícius, o Dev das Linhas de Código! 👋
+## Eu sou o Vinícius, o Dev das Linhas de Código! 👋
 
 ## Quem é esse cara?
 
@@ -18,10 +18,10 @@ Imagine um misto de Analista de Sistemas e Desenvolvedor com uma paixão ardente
 - 📧 **Coruja Mensageira:** [contato@viniccius.com.br](mailto:contato@viniccius.com.br)
 - 📱 **Chamado Urgente:** +55 67 9 9944 - 1458
 - [Astral LinkedIn](https://www.linkedin.com/in/viniszofc/)
-- [Feitiço do Twitter](https://twitter.com/viniszofce/)
+- [Feitiço do Twitter](https://twitter.com/viniszofc/)
 
 ## A Magia dos Números 🌟
 
-![Osíris Vinícius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinszofc&show_icons=true&theme=github_dark)
+![Osíris Vinícius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisjs&show_icons=true&theme=github_dark)
 
 Junte-se a mim nesta aventura mágica de código! ✨🚀
